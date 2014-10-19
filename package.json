@@ -1,0 +1,15 @@
+{
+  "name": "pixi.js-browserify-sample",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^0.12.2",
+    "koa-es6ify": "^0.1.1",
+    "koa-static": "^1.4.7",
+    "pixi.js": "qard/pixi.js#browserify-rewrite-2"
+  }
+}
