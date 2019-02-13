@@ -9,9 +9,9 @@
   "author": "Stephen Belanger <admin@stephenbelanger.com>",
   "license": "MIT",
   "dependencies": {
-    "koa": "^0.12.2",
+    "koa": "^2.7.0",
     "koa-es6ify": "^0.1.1",
-    "koa-static": "^1.4.7",
+    "koa-static": "^5.0.0",
     "pixi.js": "qard/pixi.js#browserify-rewrite-2"
   }
 }
